@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/michelle/Desktop/MichelleVector3D/Vector3D/source/Vector3D.cpp
+Vector3D.h
+/home/michelle/Desktop/MichelleVector3D/Vector3D/source/Vector3D.h
+iostream
+-
+
+/home/michelle/Desktop/MichelleVector3D/Vector3D/source/main.cpp
+Vector3D.h
+/home/michelle/Desktop/MichelleVector3D/Vector3D/source/Vector3D.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+
+Vector3D/include/Vector3D.h
+iostream
+-
+

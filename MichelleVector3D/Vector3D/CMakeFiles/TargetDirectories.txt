@@ -1,0 +1,3 @@
+/home/michelle/Desktop/MichelleVector3D/Vector3D/CMakeFiles/edit_cache.dir
+/home/michelle/Desktop/MichelleVector3D/Vector3D/CMakeFiles/rebuild_cache.dir
+/home/michelle/Desktop/MichelleVector3D/Vector3D/CMakeFiles/Vector3D.dir
